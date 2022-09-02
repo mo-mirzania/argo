@@ -6,4 +6,5 @@ appVersion: "1.0.0"
 dependencies:
 - name: quarkus
   version: 0.0.3
-  repository: https://argo-helm-charts-playground.s3.eu-central-1.amazonaws.com/charts
+  #repository: https://argo-helm-charts-playground.s3.eu-central-1.amazonaws.com/charts
+  repository: https://github.com/mo-mirzania/argo/tree/main/quarkus
