@@ -1,0 +1,8 @@
+job:
+  enabled: true
+build:
+  enabled: false
+deploy:
+  replicas: 1
+image:
+  name: quay.io/ablock/gitops-helm-quarkus
